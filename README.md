@@ -1,5 +1,5 @@
 # Snippets
-#Noised Glass Morphism
+# Noise Glass Morphism
 ```html
 <div class="box">
   <div class="overlay"></div>
