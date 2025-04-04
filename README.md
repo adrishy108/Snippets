@@ -1,5 +1,6 @@
 # Snippets
 # Noise Glass Morphism
+[!Codepen](https://codepen.io/ayush1v/pen/NPWJaRX)
 ```html
 <div class="box">
   <div class="overlay"></div>
